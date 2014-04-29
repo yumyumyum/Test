@@ -1,3 +1,6 @@
+//java implementation inspired by Linux-Fetch by Jyang772
+//https://github.com/Jyang772/Linux-Fetch
+
 import java.io.InputStreamReader;
 import java.io.BufferedReader;
 import java.io.IOException;
